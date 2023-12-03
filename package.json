@@ -12,7 +12,7 @@
   "main": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "dev": "vitest --watch",
+    "dev": "vitest --watch --coverage",
     "lint": "eslint src/**/*.ts",
     "lint:fix": "eslint src/**/*.ts --fix",
     "prettify": "prettier --write \"src/**/*.ts\"",
