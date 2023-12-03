@@ -27,6 +27,7 @@
     "@types/node": "^20.10.2",
     "@typescript-eslint/eslint-plugin": "^6.13.1",
     "@typescript-eslint/parser": "^6.13.1",
+    "changelogen": "^0.5.5",
     "eslint": "^8.55.0",
     "husky": "^8.0.3",
     "nanoid": "^5.0.4",
