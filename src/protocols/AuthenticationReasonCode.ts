@@ -15,7 +15,7 @@ export class AuthenticateReasonCode {
    * @static
    * @type {number}
    */
-  public static Success: number = 0;
+  public static Success: number = 0x00;
   /**
    * Description placeholder
    * @date 12/3/2023 - 10:35:25 PM

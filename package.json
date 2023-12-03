@@ -1,7 +1,7 @@
 {
-  "name": "node-mqtt-module",
+  "name": "next-node-mqtt",
   "version": "0.0.0",
-  "description": "A NodeJS Module to build and implement MQTT Communication for IOT Projects",
+  "description": "A Next Generation of NodeJS Module to build and implement MQTT Communication for IOT Projects",
   "type": "module",
   "exports": {
     ".": {
